@@ -16,3 +16,13 @@
 # 忽略临时文件
 *.tmp
 *.log
+# 忽略编译输出目录
+x64/
+Debug/
+Release/
+# 忽略编译中间文件
+*.tlog
+*.obj
+*.pdb
+*.idb
+*.ilk
