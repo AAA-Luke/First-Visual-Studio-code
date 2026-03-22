@@ -29,3 +29,5 @@
 				 例如：a += 5; // 等价于 a = a + 5;
 			  5、do-while循环的循环主体至少执行一次。
 			  6、修饰符const声明的变量称为声明常量。
+  2026-3-22: 练习第二章编程题：
+             1、将double值转换为int类型：使用static_cast<int>(doubleValue);
